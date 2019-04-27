@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.com/NMVikings/exchange-widget.svg?branch=master)](https://travis-ci.org/NMVikings/exchange-widget)
+[![Maintainability](https://api.codeclimate.com/v1/badges/0b097207a7b82eacf922/maintainability)](https://codeclimate.com/github/NMVikings/exchange-widget/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/0b097207a7b82eacf922/test_coverage)](https://codeclimate.com/github/NMVikings/exchange-widget/test_coverage)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
